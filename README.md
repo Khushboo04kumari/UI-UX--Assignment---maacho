@@ -1,2 +1,3 @@
 # UI-UX--Assignment---maacho
-UI/UX Assignment submission
+
+https://www.figma.com/design/xQJnLokbpJySNHeviYc0IX/Untitled?node-id=0-1&t=qxyzE2YrKCoHzX44-1
